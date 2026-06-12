@@ -20,7 +20,3 @@ A tool to handle infos on AWA (AlienwareArena).
 ## 📋 How to use it?
 - Download from [latest release](https://github.com/caoskiller/awa-megumin-alien-center/releases) .rar file, decompress/unzip it.
 - On Browser Extension page, enable **Developer Mode** and click **Load unpacked** button, select the decompressed/unziped folder.
-
-## 🔮 Upcoming Updates v1.1.2
-- [ ] Add Mini-Tour to explain how the widget works and each sector.
-- [ ] Add New Achievements list for better organization and checkings.
