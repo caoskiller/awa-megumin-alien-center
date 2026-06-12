@@ -7,7 +7,7 @@ A tool to handle infos on AWA (AlienwareArena).
 <img width="3185" height="2226" alt="image" src="https://github.com/user-attachments/assets/0ff7d1af-49f6-4e40-bd87-cf1576004dbf" />
 
 ##📋 Note
--This project isn’t mine; I’ve just fixed a few bugs in the code. If you’d like, you can download or find the original project by the [creator](https://github.com/MeguminShiro/awa-megumin-alien-center/releases/tag/v1.1.1).
+-This project isn’t mine; I’ve just fixed a few bugs in the code. If you’d like, you can download or find the original project by the [creator](https://github.com/MeguminShiro/awa-megumin-alien-center).
  If you’d like, you can suggest improvements and I’ll see what I can do (unfortunately, I’m not very good at writing code, so please bear with me).
 
 ## ✨ Features
@@ -18,7 +18,7 @@ A tool to handle infos on AWA (AlienwareArena).
 - ARP Log, Game Vault, Community GA, GA all in one place to check!
 ⠀
 ## 📋 How to use it?
-- Download from [latest release](https://github.com/MeguminShiro/awa-megumin-alien-center/releases) .crx file, decompress/unzip it.
+- Download from [latest release](https://github.com/caoskiller/awa-megumin-alien-center/releases) .rar file, decompress/unzip it.
 - On Browser Extension page, enable **Developer Mode** and click **Load unpacked** button, select the decompressed/unziped folder.
 
 ## 🔮 Upcoming Updates v1.1.2
